@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <br/>
 
-🌱 currently learning Brawijaya University and Also Bangkit Academy 2021
+🌱 currently learning Brawijaya University and Also Bangkit Academy 2021 <br/>
 🔭 currently working on improving all my personal branding as my starter pack
 
 <!--
