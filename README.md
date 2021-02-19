@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 currently learning Brawijaya University and Also Bangkit Academy 2021
+🔭 currently working on improving all my personal branding as my starter pack
+
 <!--
 **dimasbjg/dimasbjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
