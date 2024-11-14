@@ -1,7 +1,6 @@
 ### Hi there 👋 <br/>
 
-🌱 currently looking for job after graduate from Brawijaya University and also graduated from Bangkit Academy 2021 <br/>
-🔭 currently working on improving all my personal branding as my starter pack
+🌱 Learning and working on kotlin multiplatform project. <br/>
 
 <!--
 **dimasbjg/dimasbjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
